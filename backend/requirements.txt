@@ -8,4 +8,5 @@ youtube_transcript_api
 langdetect
 easygoogletranslate
 dotenv
-Flask
+flask
+flask_cors
