@@ -7,3 +7,5 @@ langchain_google_genai
 youtube_transcript_api
 langdetect
 easygoogletranslate
+dotenv
+Flask
