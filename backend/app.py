@@ -19,7 +19,7 @@ app = Flask(__name__)
 CORS(app)
 
 load_dotenv()
-api_key = "AIzaSyAfItvxFBe_CzrjqOokhzkBEoHMpNyvOb8"
+api_key = ""
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
