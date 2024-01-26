@@ -1,0 +1,14 @@
+/* Navbar.css */
+/* You can keep your existing styles for background-color, height, etc. */
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 20px;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  

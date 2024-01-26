@@ -1,0 +1,51 @@
+/* HomePage.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .product-name {
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+  }
+  
+  .video-section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-container {
+    position: relative;
+    transition: background-color 0.3s ease; /* Smooth transition for color change */
+  }
+  
+  .input-container.focused {
+    background-color: #1c64f2; /* Color when focused */
+  }
+  
+  input {
+    padding-right: 40px; /* Space for the button */
+    width: 500px;
+    Height: 50px;
+  }
+  
+  button {
+    position: absolute;
+    right: 18px; /* Adjust as needed */
+    top: 50%; /* Vertically center the button */
+    transform: translateY(-50%);
+    cursor: pointer;
+    border-radius: 25%; /* Make the button rounded */
+    border: none; /* Remove the border */
+    background-color: #1a56db;
+    color: white;
+    font-weight: bolder;
+    padding: 5px 10px; /* Adjust padding as needed */
+  }
+  

@@ -1,0 +1,6 @@
+streamlit
+streamlit/env/
+streamlit/.env
+backend/.env
+backend/env
+.env

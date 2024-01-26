@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .container h2 {
+    color: #007bff;
+  }
+  
+  .container p {
+    color: #555;
+  }
+  
+  .container h3 {
+    color: #007bff;
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  

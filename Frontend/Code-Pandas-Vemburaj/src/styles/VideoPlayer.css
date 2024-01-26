@@ -1,0 +1,10 @@
+/* VideoPlayer.css */
+.video-container {
+  display: flex;
+  align-items: center; /* Center vertically */
+}
+
+.invalid-video {
+  color: red;
+  text-align: center;
+}

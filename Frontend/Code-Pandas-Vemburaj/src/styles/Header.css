@@ -1,0 +1,11 @@
+.header-container {
+    background-color: #1c64f2;
+    padding: 20px; /* Add padding for better visual appearance */
+  }
+  
+  .header-text {
+    color: #ffffff; /* Set text color to white or any contrasting color */
+    margin: 0; /* Remove default margin for cleaner appearance */
+    font-size: 16px;
+  }
+  

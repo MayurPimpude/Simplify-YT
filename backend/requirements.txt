@@ -1,0 +1,9 @@
+google-generativeai
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+youtube_transcript_api
+langdetect
+easygoogletranslate
